@@ -11,22 +11,7 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
  
-  ---
-  
-### Languages and Tools:
-  
-<img alt="Python" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-<img alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-<img alt="VS-code" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img alt="HTML" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img alt="CSS" src="https://img.icons8.com/color/48/000000/css3.png"/>
- <img alt="JavaScript" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
- <img alt="Git" src="https://img.icons8.com/color/48/000000/git.png"/>
- <img alt="MySql"  src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 
- 
- 
----
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakashchaudhary12&show_icons=true&locale=en&layout=compact" alt="prakashchaudhary12" /></p>
 
