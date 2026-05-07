@@ -1,15 +1,5 @@
 # Hi there, I'm **Prakash Chaudhary**👋
-## I'm a Student and a developer!!
-
----
-
-- 🌱 I’m Student of Bachelor's of engineering at Sinhgad college of engineering, Pune.
-- 🥅 2024 Goals: Learn more about **DSA** and **Competitive Programmming**, being **Focused and Consistent**.
-- 🔭 Check out my <a target="_blank" href="https://www.linkedin.com/in/prakash-chaudhary">LinkedIn Profile</a>
-- ⚡ I love to myself.
-- 🌱 I'm currently learning **Frontend Web Developement**.
-
----
+## I'm a developer!!
 
 ### Connect with me<img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>:
 
