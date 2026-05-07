@@ -10,18 +10,7 @@
 
 
  
- ### Recent Projects 👨‍💻
- 
- 
- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prakashchaudhary12&repo=Weather-App&show_icons=true&theme=solarized-light">
-</div>
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=prakashchaudhary12&repo=Coffee-Shop-Website&show_icons=true&theme=solarized-light">
-</div>
 
-
- ---
- 
  <div align="center">
 <img src="https://img.shields.io/github/followers/prakashchaudhary12.svg?style=social&label=Follow"></img>
 
