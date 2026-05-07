@@ -12,9 +12,6 @@
 </a>
  
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakashchaudhary12&show_icons=true&locale=en&layout=compact" alt="prakashchaudhary12" /></p>
-
 ---
 
 <p display="flex" justify-content="space-between" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=prakashchaudhary12&show_icons=true&locale=en" alt="prakashchaudhary12" />
