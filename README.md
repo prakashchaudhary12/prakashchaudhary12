@@ -8,15 +8,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
- 
 
----
-
-<p display="flex" justify-content="space-between" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=prakashchaudhary12&show_icons=true&locale=en" alt="prakashchaudhary12" />
-
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=prakashchaudhary12&" alt="prakashchaudhary12" /></p>
-
----
  
  ### Recent Projects 👨‍💻
  
