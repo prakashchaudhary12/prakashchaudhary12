@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Prakash Chaudhary</h1>
 
 <h3 align="center">
@@ -115,8 +114,7 @@ End-to-end Machine Learning pipeline for phishing website detection with:
 <p>
 
 🔗 <a href="https://github.com/prakashchaudhary12/networksecurity">
-View Repository
-</a>
+View Repository </a>
 
 </p>
 
@@ -145,8 +143,7 @@ Production-ready ML system with:
 <p>
 
 🔗 <a href="https://github.com/prakashchaudhary12/mlproject">
-View Repository
-</a>
+View Repository </a>
 
 </p>
 
@@ -288,4 +285,3 @@ src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&
 <h3 align="center">
 ⭐ Thanks for visiting my profile!
 </h3>
-```
