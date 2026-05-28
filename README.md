@@ -1,4 +1,4 @@
-```html
+```md
 <h1 align="center">Hi 👋, I'm Prakash Chaudhary</h1>
 
 <h3 align="center">
@@ -15,17 +15,31 @@
 <h2>💫 About Me</h2>
 
 <ul>
-<li>💻 Associate Data Scientist at <b>Wipro Limited</b></li>
 
-<li>🤖 Passionate about Machine Learning, AI, MLOps, and Data Analytics</li>
+<li>
+💻 Associate Data Scientist at <b>Wipro Limited</b>
+</li>
 
-<li>🚀 Building scalable and production-ready AI/ML systems</li>
+<li>
+🤖 Passionate about Machine Learning, AI, MLOps, and Data Analytics
+</li>
 
-<li>📊 Experienced in End-to-End ML Pipelines, Cloud Deployment, and Analytics</li>
+<li>
+🚀 Building scalable and production-ready AI/ML systems
+</li>
 
-<li>🌱 Currently exploring Generative AI, MLOps, and Cloud AI Systems</li>
+<li>
+📊 Experienced in End-to-End ML Pipelines, Cloud Deployment, and Analytics
+</li>
 
-<li>⚡ Interested in solving real-world business problems using AI & Data Science</li>
+<li>
+🌱 Currently exploring Generative AI, MLOps, and Cloud AI Systems
+</li>
+
+<li>
+⚡ Interested in solving real-world business problems using AI & Data Science
+</li>
+
 </ul>
 
 ---
@@ -36,7 +50,9 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,mongodb,docker,git,github,vscode,aws,azure,flask,fastapi" />
+<img
+src="https://skillicons.dev/icons?i=python,mysql,mongodb,docker,git,github,vscode,aws,azure,flask,fastapi"
+/>
 
 </p>
 
@@ -46,17 +62,29 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange" />
+<img
+src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange"
+/>
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img
+src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"
+/>
 
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+<img
+src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"
+/>
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img
+src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
+/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img
+src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"
+/>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img
+src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"
+/>
 
 </p>
 
@@ -71,17 +99,25 @@ End-to-end Machine Learning pipeline for phishing website detection with:
 </p>
 
 <ul>
+
 <li>ETL Pipelines</li>
+
 <li>MLflow Integration</li>
+
 <li>Docker Deployment</li>
+
 <li>CI/CD Workflows</li>
+
 <li>FastAPI Services</li>
+
 </ul>
 
 <p>
+
 🔗 <a href="https://github.com/prakashchaudhary12/networksecurity">
 View Repository
 </a>
+
 </p>
 
 <br>
@@ -93,17 +129,25 @@ Production-ready ML system with:
 </p>
 
 <ul>
+
 <li>Model Training</li>
+
 <li>Hyperparameter Tuning</li>
+
 <li>Azure Deployment</li>
+
 <li>Flask Integration</li>
+
 <li>Docker Containerization</li>
+
 </ul>
 
 <p>
+
 🔗 <a href="https://github.com/prakashchaudhary12/mlproject">
 View Repository
 </a>
+
 </p>
 
 ---
@@ -115,14 +159,16 @@ View Repository
 <a href="https://github.com/prakashchaudhary12/networksecurity">
 
 <img
-src="https://github-readme-stats.vercel.app/api/pin/?username=prakashchaudhary12&repo=networksecurity&theme=tokyonight" />
+src="https://github-readme-stats.vercel.app/api/pin/?username=prakashchaudhary12&repo=networksecurity&theme=tokyonight"
+/>
 
 </a>
 
 <a href="https://github.com/prakashchaudhary12/mlproject">
 
 <img
-src="https://github-readme-stats.vercel.app/api/pin/?username=prakashchaudhary12&repo=mlproject&theme=tokyonight" />
+src="https://github-readme-stats.vercel.app/api/pin/?username=prakashchaudhary12&repo=mlproject&theme=tokyonight"
+/>
 
 </a>
 
@@ -134,11 +180,15 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=prakashchaudhary12
 
 <p align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=prakashchaudhary12&show_icons=true&theme=tokyonight&count_private=true" />
+<img
+height="180em"
+src="https://github-readme-stats.vercel.app/api?username=prakashchaudhary12&show_icons=true&theme=tokyonight&count_private=true"
+/>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashchaudhary12&layout=compact&theme=tokyonight" />
+<img
+height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashchaudhary12&layout=compact&theme=tokyonight"
+/>
 
 </p>
 
@@ -155,15 +205,27 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=prakashchaudhary12&t
 <h2>🏆 Certifications</h2>
 
 <ul>
-<li>Microsoft Certified: Fabric Analytics Engineer Associate</li>
 
-<li>Data Engineering on AWS - Foundations</li>
+<li>
+Microsoft Certified: Fabric Analytics Engineer Associate
+</li>
 
-<li>Microsoft 365 Certified: Fundamentals</li>
+<li>
+Data Engineering on AWS - Foundations
+</li>
 
-<li>SQL Certification</li>
+<li>
+Microsoft 365 Certified: Fundamentals
+</li>
 
-<li>Python Programming Fundamentals</li>
+<li>
+Hands-On Introduction: SQL
+</li>
+
+<li>
+Python Programming Fundamentals
+</li>
+
 </ul>
 
 ---
@@ -175,28 +237,32 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=prakashchaudhary12&t
 <a href="https://www.linkedin.com/in/prakash-chaudhary/" target="_blank">
 
 <img
-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+/>
 
 </a>
 
 <a href="mailto:chyprakash2002@gmail.com">
 
 <img
-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+/>
 
 </a>
 
 <a href="https://github.com/prakashchaudhary12">
 
 <img
-src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+/>
 
 </a>
 
 <a href="https://www.kaggle.com/prakashchaudhary12">
 
 <img
-src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"
+/>
 
 </a>
 
