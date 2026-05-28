@@ -1,191 +1,225 @@
-# <h1 align="center">Hi 👋, I'm Prakash Chaudhary</h1>
+```html
+<h1 align="center">Hi 👋, I'm Prakash Chaudhary</h1>
+
+<h3 align="center">
+🚀 Data Scientist | AI/ML Engineer | Data Analyst
+</h3>
 
 <p align="center">
-  🚀 Data Scientist • AI/ML Engineer • Data Analyst <br>
-  🎓 B.E. in Electronics & Telecommunication Engineering <br>
-  📍 Pune, India
+🎓 B.E. in Electronics & Telecommunication Engineering <br>
+📍 Pune, India
 </p>
 
 ---
 
-# 💫 About Me
+<h2>💫 About Me</h2>
 
-* 💻 Associate Data Scientist at **Wipro Limited**
-* 🤖 Passionate about **Machine Learning, AI, MLOps, and Data Analytics**
-* 🚀 Building scalable and production-ready AI/ML systems
-* 📊 Experienced in End-to-End ML Pipelines, Cloud Deployment, and Analytics
-* 🌱 Currently exploring **Generative AI, MLOps, and Cloud AI Systems**
-* ⚡ Interested in solving real-world business problems using AI & Data Science
+<ul>
+<li>💻 Associate Data Scientist at <b>Wipro Limited</b></li>
+
+<li>🤖 Passionate about Machine Learning, AI, MLOps, and Data Analytics</li>
+
+<li>🚀 Building scalable and production-ready AI/ML systems</li>
+
+<li>📊 Experienced in End-to-End ML Pipelines, Cloud Deployment, and Analytics</li>
+
+<li>🌱 Currently exploring Generative AI, MLOps, and Cloud AI Systems</li>
+
+<li>⚡ Interested in solving real-world business problems using AI & Data Science</li>
+</ul>
 
 ---
 
-# 🛠️ Tech Stack
+<h2>🛠️ Tech Stack</h2>
 
-<p align="left">
+<h3>👨‍💻 Languages & Tools</h3>
 
-<img alt="Python"
-src="https://img.icons8.com/color/48/python--v1.png"/>
+<p align="center">
 
-<img alt="VS Code"
-src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,mongodb,docker,git,github,vscode,aws,azure,flask,fastapi" />
 
-<img alt="Git"
-src="https://img.icons8.com/color/48/git.png"/>
+</p>
 
-<img alt="MySQL"
-src="https://img.icons8.com/color/48/mysql-logo.png"/>
+<br>
 
-<img alt="MongoDB"
-src="https://img.icons8.com/color/48/mongodb.png"/>
+<h3>🤖 AI / ML / Data Science</h3>
 
-<img alt="Docker"
-src="https://img.icons8.com/color/48/docker.png"/>
+<p align="center">
 
-<img alt="AWS"
-src="https://img.icons8.com/color/48/amazon-web-services.png"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange" />
 
-<img alt="Azure"
-src="https://img.icons8.com/color/48/azure-1.png"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 
-<img alt="Power BI"
-src="https://img.icons8.com/color/48/power-bi.png"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 
 </p>
 
 ---
 
-# 📘 Featured Projects
+<h2>📘 Featured Projects</h2>
 
-## 🔐 Network Security Phishing Detection System
+<h3>🔐 Network Security Phishing Detection System</h3>
 
+<p>
 End-to-end Machine Learning pipeline for phishing website detection with:
+</p>
 
-* ETL pipelines
-* MLflow integration
-* Docker deployment
-* CI/CD workflows
-* FastAPI services
+<ul>
+<li>ETL Pipelines</li>
+<li>MLflow Integration</li>
+<li>Docker Deployment</li>
+<li>CI/CD Workflows</li>
+<li>FastAPI Services</li>
+</ul>
 
-🔗 Repository:
-https://github.com/prakashchaudhary12/networksecurity
+<p>
+🔗 <a href="https://github.com/prakashchaudhary12/networksecurity">
+View Repository
+</a>
+</p>
 
----
+<br>
 
-## 🤖 End-to-End Machine Learning Project
+<h3>🤖 End-to-End Machine Learning Project</h3>
 
+<p>
 Production-ready ML system with:
+</p>
 
-* Model training
-* Hyperparameter tuning
-* Azure deployment
-* Flask integration
-* Docker containerization
+<ul>
+<li>Model Training</li>
+<li>Hyperparameter Tuning</li>
+<li>Azure Deployment</li>
+<li>Flask Integration</li>
+<li>Docker Containerization</li>
+</ul>
 
-🔗 Repository:
-https://github.com/prakashchaudhary12/mlproject
+<p>
+🔗 <a href="https://github.com/prakashchaudhary12/mlproject">
+View Repository
+</a>
+</p>
 
 ---
 
-# 📌 Top Repositories
+<h2>📌 Top Repositories</h2>
 
 <p align="center">
 
 <a href="https://github.com/prakashchaudhary12/networksecurity">
-  <img align="center"
-  src="https://github-readme-stats.vercel.app/api/pin/?username=prakashchaudhary12&repo=networksecurity&theme=radical" />
+
+<img
+src="https://github-readme-stats.vercel.app/api/pin/?username=prakashchaudhary12&repo=networksecurity&theme=tokyonight" />
+
 </a>
 
 <a href="https://github.com/prakashchaudhary12/mlproject">
-  <img align="center"
-  src="https://github-readme-stats.vercel.app/api/pin/?username=prakashchaudhary12&repo=mlproject&theme=radical" />
+
+<img
+src="https://github-readme-stats.vercel.app/api/pin/?username=prakashchaudhary12&repo=mlproject&theme=tokyonight" />
+
 </a>
 
 </p>
 
 ---
 
-# 🆕 Latest Repositories
+<h2>📈 GitHub Analytics</h2>
 
 <p align="center">
 
-<a href="https://github.com/prakashchaudhary12">
-  <img
-  src="https://github-readme-stats.vercel.app/api?username=prakashchaudhary12&show_icons=true&theme=radical&count_private=true" />
-</a>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=prakashchaudhary12&show_icons=true&theme=tokyonight&count_private=true" />
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashchaudhary12&layout=compact&theme=tokyonight" />
+
+</p>
+
+<p align="center">
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=prakashchaudhary12&theme=tokyonight"
+/>
 
 </p>
 
 ---
 
-# 🏆 Certifications
+<h2>🏆 Certifications</h2>
 
-* Microsoft Certified: Fabric Analytics Engineer Associate
-* Data Engineering on AWS - Foundations
-* Microsoft 365 Certified: Fundamentals
-* SQL Certification
-* Python Programming Fundamentals
+<ul>
+<li>Microsoft Certified: Fabric Analytics Engineer Associate</li>
+
+<li>Data Engineering on AWS - Foundations</li>
+
+<li>Microsoft 365 Certified: Fundamentals</li>
+
+<li>SQL Certification</li>
+
+<li>Python Programming Fundamentals</li>
+</ul>
 
 ---
 
-# 📈 GitHub Stats
+<h2>📫 Connect With Me</h2>
 
 <p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=prakashchaudhary12&show_icons=true&theme=radical"
-alt="GitHub Stats"/>
-
-<br><br>
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=prakashchaudhary12&theme=radical"
-alt="GitHub Streak"/>
-
-<br><br>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashchaudhary12&layout=compact&theme=radical"
-alt="Top Languages"/>
-
-</p>
-
----
-
-# 📫 Let's Connect!
-
-<p align="left">
 
 <a href="https://www.linkedin.com/in/prakash-chaudhary/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+
+<img
+src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 <a href="mailto:chyprakash2002@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+
+<img
+src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
-<a href="https://github.com/prakashchaudhary12" target="_blank">
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
+<a href="https://github.com/prakashchaudhary12">
+
+<img
+src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
-<a href="https://www.kaggle.com/prakashchaudhary12" target="_blank">
-<img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/>
+<a href="https://www.kaggle.com/prakashchaudhary12">
+
+<img
+src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+
 </a>
 
 </p>
 
 ---
 
-# ⭐ Profile Highlights
-
-✅ AI/ML Projects
-✅ MLOps Workflows
-✅ Cloud Deployment
-✅ Data Analytics
-✅ Production-Ready ML Systems
-✅ Modern AI Portfolio
-
----
+<h2>⭐ Profile Highlights</h2>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+
+✅ AI/ML Projects <br>
+✅ MLOps Workflows <br>
+✅ Cloud Deployment <br>
+✅ Data Analytics <br>
+✅ Production-Ready ML Systems <br>
+✅ Modern AI Portfolio
+
 </p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile!
+</h3>
+```
